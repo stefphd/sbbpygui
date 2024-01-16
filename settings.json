@@ -1,0 +1,22 @@
+{
+    "comm": {
+        "baud_def": 4e6,
+        "timeout_def": 10,
+        "max_fails": 10
+    },
+    "gui": {
+        "win_defsize": [250, 50, 800, 600],
+        "port_maxwidth": 100,
+        "port_minwidth": 75,
+        "baud_maxwidth": 90,
+        "baud_minwidth": 60,
+        "timeout_maxwidth": 75,
+        "timeout_minwidth": 40,
+        "sgnlist_minwidth": 100,
+        "sgnlist_maxwidth": 150,       
+        "update_chart_factor": 2,
+        "update_time": 10,
+        "update_err_time": 1000,
+        "chart_window": 500
+    }
+}
